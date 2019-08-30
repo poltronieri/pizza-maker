@@ -21,4 +21,5 @@ Avalaible routes:
 `/api/bases` <br>
 `/api/sizes` <br>
 `/api/flavors` <br>
-`/api/extras`
+`/api/suggestions` <br>
+`/api/points`
